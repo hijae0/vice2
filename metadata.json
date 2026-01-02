@@ -1,0 +1,7 @@
+{
+  "name": "Eki-Announce: Japanese Rail Announcement Maker",
+  "description": "Create authentic Japanese train and subway announcements for JR, Tokyo Metro, and Sotetsu with high-quality AI speech and script customization.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
